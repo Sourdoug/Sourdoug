@@ -63,8 +63,7 @@ Je suis un administrateur système et réseau avec une forte orientation vers la
 
 🎓 **Mastère en Cybersécurité** — ESTIAM *(2025)*  
 🎓 **Licence Informatique – Réseaux & Cybersécurité** — CNAM *(2023)*  
-🎓 **DUT Réseaux & Télécommunications** — UPEC *(2022)*  
-:contentReference[oaicite:7]{index=7}
+🎓 **DUT Réseaux & Télécommunications** — UPEC *(2022)*:contentReference[oaicite:7]{index=7}
 
 ---
 
