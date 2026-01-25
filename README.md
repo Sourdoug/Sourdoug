@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jassem-marzouk.fr">
-    <img src="https://img.icons8.com/?size=100&id=84888&format=png&color=FFFFFF"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png"/>
   </a>
   <a href="https://linkedin.com/in/TON_PROFIL">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/>
@@ -15,8 +15,7 @@
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png"/>
   </a>
 </p>  
-🔗 [LinkedIn](https://www.linkedin.com/in/jassem-marzouk/)  
-🔗 [GitHub](https://github.com/Sourdoug)
+
 
 ---
 
