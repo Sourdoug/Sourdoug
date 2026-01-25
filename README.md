@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jassem-marzouk.fr">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png"/>
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
   </a>
   <a href="https://linkedin.com/in/TON_PROFIL">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/>
