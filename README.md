@@ -4,7 +4,7 @@
 🔐 Spécialisé en **Cybersécurité**  
 🎯 Passionné par la sécurité informatique, l’administration d’infrastructures et l’optimisation des systèmes
 
-🔗 [Mon site portfolio](https://jassem-marzouk.fr)  
+🔗 [![Website](https://img.shields.io/badge/Site%20Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jassem-marzouk.fr)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jassem-marzouk/)  
 🔗 [GitHub](https://github.com/Sourdoug)
 
