@@ -4,7 +4,17 @@
 🔐 Spécialisé en **Cybersécurité**  
 🎯 Passionné par la sécurité informatique, l’administration d’infrastructures et l’optimisation des systèmes
 
-🔗 [![Website](https://img.shields.io/badge/Site%20Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jassem-marzouk.fr)  
+<p align="center">
+  <a href="https://jassem-marzouk.fr">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png"/>
+  </a>
+  <a href="https://linkedin.com/in/TON_PROFIL">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/>
+  </a>
+  <a href="https://github.com/TON_USERNAME">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png"/>
+  </a>
+</p>  
 🔗 [LinkedIn](https://www.linkedin.com/in/jassem-marzouk/)  
 🔗 [GitHub](https://github.com/Sourdoug)
 
