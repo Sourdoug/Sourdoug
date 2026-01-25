@@ -12,7 +12,7 @@
 
 ## 🧠 À propos de moi
 
-Je suis un administrateur système et réseau avec une forte orientation vers la cybersécurité. Grâce à plusieurs expériences en alternance dans des environnements exigeants, j’ai acquis des compétences solides en gestion de serveurs, sécurité des infrastructures et support IT.:contentReference[oaicite:1]{index=1}
+Je suis un administrateur système et réseau avec une forte orientation vers la cybersécurité. Grâce à plusieurs expériences en alternance dans des environnements exigeants, j’ai acquis des compétences solides en gestion de serveurs, sécurité des infrastructures et support IT.
 
 ---
 
@@ -24,7 +24,7 @@ Je suis un administrateur système et réseau avec une forte orientation vers la
 - 📡 Supervision & support IT  
 - 📞 Téléphonie et réseaux IP  
 - 📝 Documentation technique & procédures standards  
-:contentReference[oaicite:2]{index=2}
+
 
 ---
 
@@ -35,27 +35,23 @@ Je suis un administrateur système et réseau avec une forte orientation vers la
 - Support informatique
 - Gestion de parc informatique
 - Gestion de plan de sauvegarde
-- Dépannage informatique à distance et sur site 
-:contentReference[oaicite:3]{index=3}
+- Dépannage informatique à distance et sur site
 
 ### **EssilorLuxottica**  
 *Technicien Support & Sécurité en R&D*  
 - Contribution à la sécurisation de serveurs et gestion des utilisateurs  
 - Cartographie des environnements R&D  
-- Sensibilisation à la cybersécurité  
-:contentReference[oaicite:4]{index=4}
+- Sensibilisation à la cybersécurité
 
 ### **Azapp**  
 *Administrateur Systèmes & Réseaux*  
 - Gestion des serveurs web, DNS et maintenance informatique  
-- Supervision des systèmes et téléphonie IP  
-:contentReference[oaicite:5]{index=5}
+- Supervision des systèmes et téléphonie IP
 
 ### **CryopAL (Groupe Air Liquide)**  
 *Technicien Informatique*  
 - Gestion du parc informatique & support utilisateurs  
-- Supervision système quotidienne  
-:contentReference[oaicite:6]{index=6}
+- Supervision système quotidienne
 
 ---
 
@@ -63,7 +59,7 @@ Je suis un administrateur système et réseau avec une forte orientation vers la
 
 🎓 **Mastère en Cybersécurité** — ESTIAM *(2025)*  
 🎓 **Licence Informatique – Réseaux & Cybersécurité** — CNAM *(2023)*  
-🎓 **DUT Réseaux & Télécommunications** — UPEC *(2022)*:contentReference[oaicite:7]{index=7}
+🎓 **DUT Réseaux & Télécommunications** — UPEC *(2022)*
 
 ---
 
