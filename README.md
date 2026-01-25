@@ -8,10 +8,10 @@
   <a href="https://jassem-marzouk.fr">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png"/>
   </a>
-  <a href="https://linkedin.com/in/TON_PROFIL">
+  <a href="https://www.linkedin.com/in/jassem-marzouk/">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/>
   </a>
-  <a href="https://github.com/TON_USERNAME">
+  <a href="https://github.com/Sourdoug?tab=overview&from=2026-01-01&to=2026-01-25">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png"/>
   </a>
 </p>  
