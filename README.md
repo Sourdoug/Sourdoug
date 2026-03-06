@@ -40,7 +40,7 @@ Je suis un administrateur système et réseau avec une forte orientation vers la
 ## 💼 Expérience Professionnelle
 
 ### **Epixelic**  
-*Technicien Support *  
+*Technicien Support*  
 - Support informatique
 - Gestion de parc informatique
 - Gestion de plan de sauvegarde
