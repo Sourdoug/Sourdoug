@@ -5,7 +5,7 @@
 🎯 Passionné par la sécurité informatique, l’administration d’infrastructures et l’optimisation des systèmes
 
 <p align="center">
-  <a href="https://jassem-marzouk.fr">
+  <a href="https://jassem-marzouk.com">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png"/>
   </a>
   <a href="https://www.linkedin.com/in/jassem-marzouk/">
@@ -74,9 +74,9 @@ Je suis un administrateur système et réseau avec une forte orientation vers la
 
 ## 📫 Me contacter
 
-📧 **Email** : [contact@jassem-marzouk.fr]  
+📧 **Email** : [contact@jassem-marzouk.com]  
 🔗 **LinkedIn** : https://www.linkedin.com/in/jassem-marzouk/  
-🔗 **Portfolio** : https://jassem-marzouk.fr
+🔗 **Portfolio** : https://jassem-marzouk.com
 
 ---
 
